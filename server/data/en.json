@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "smsc",
+    "value": "Sms center"
+  },
+  {
+    "slug": "smsc_login",
+    "value": "Login"
+  },
+  {
+    "slug": "smsc_settings",
+    "value": "Smsc settings"
+  },
+  {
+    "slug": "send_sms",
+    "value": "Send sms"
+  },
+  {
+    "slug": "phones_numbers",
+    "value": "Phones numbers"
+  },
+  {
+    "slug": "phone_number",
+    "value": "Phone number"
+  },
+  {
+    "slug": "message",
+    "value": "Message"
+  },
+  {
+    "slug": "phone_is_exist",
+    "value": "Phone is exist"
+  },
+  {
+    "slug": "select_all_subscribers",
+    "value": "Select all subscribers"
+  }
+]

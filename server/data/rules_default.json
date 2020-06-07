@@ -1,0 +1,26 @@
+{
+  "is_smsc_setting_read": {
+    "title": "Allow viewing smsc settings",
+    "value": false
+  },
+  "is_smsc_setting_create": {
+    "title": "Allow create smsc settings",
+    "value": false
+  },
+  "is_smsc_setting_update": {
+    "title": "Allow editing smsc settings",
+    "value": false
+  },
+  "is_smsc_setting_remove": {
+    "title": "Allow remove smsc settings",
+    "value": false
+  },
+  "is_send_sms": {
+    "title": "Allow send sms",
+    "value": false
+  },
+  "is_smsc_phones_read": {
+    "title": "Allow viewing phones",
+    "value": false
+  }
+}

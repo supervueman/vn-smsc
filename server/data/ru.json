@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "smsc",
+    "value": "Смс центр"
+  },
+  {
+    "slug": "smsc_login",
+    "value": "Логин"
+  },
+  {
+    "slug": "smsc_settings",
+    "value": "Настройки смс центра"
+  },
+  {
+    "slug": "send_sms",
+    "value": "Отправить смс"
+  },
+  {
+    "slug": "phones_numbers",
+    "value": "Номера телефонов"
+  },
+  {
+    "slug": "phone_number",
+    "value": "Номер телефона"
+  },
+  {
+    "slug": "message",
+    "value": "Сообщение"
+  },
+  {
+    "slug": "phone_is_exist",
+    "value": "Такой номер уже существует"
+  },
+  {
+    "slug": "select_all_subscribers",
+    "value": "Выбрать всех подписчиков"
+  }
+]
